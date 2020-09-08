@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+button {
+  display: inline-block;
+  padding: 9px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  color: #fff;
+  background-color:#FFD700;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+
+}
+
+button:hover {background-color:  #B8860B;}
+h1{font-size: 100px;}
+h1{color:gray}
+h1{font-family: Bahnschrift SemiBold SemiConden;}
